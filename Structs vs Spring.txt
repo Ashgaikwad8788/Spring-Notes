@@ -1,0 +1,44 @@
+Spring Framework
+----------------
+- Spring Framework, before Spring Framework there was another framework called "Structs" Framework.
+
+#1 
+- Structs Framework we can develop only "Web Application".
+- Unlike Structs Spring Framework supports developing multiple application development types.
+			- Standalone Application
+			- Distributed Web Application
+			- Integration Tier Application
+			- Enterprise Application
+			- Web Application
+			
+#2
+- Structs Framework Supports Developing Web Application, but using Structs framework we cannot 
+  develop all the aspect of buliding application, means we cannot develop End-End Application.
+  
+Presentation-Tier
+-----------------
+The classes within the application that participate in handling the end-uers req, those componets 
+are called as Presentation-Tier componets.
+
+Business-Tier
+-------------
+The classes invlove in performing bussiness operations are called as Business-Tier Componets.
+
+Persistency-Tier
+----------------
+Classes access the data [or] Store the data in persistence store
+
+- By using Spring Framework We can develop End-End application, Spring Framework Pervoids All the modules
+  to work with all the tier.
+  
+  
+sachinitsoftware@gmail.com
+Screen-Shot
+Information
+Name
+Mob
+Gmail
+  
+  
+  
+  

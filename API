@@ -1,0 +1,23 @@
+							Introduction to Spring Framework
+							--------------------------------
+Q> How many types of applications we develop using Spring Framework?
+-> Spring supports multiple types of applications development types, almost all the applications types
+   equal to JEE applications.
+   
+Q> Then, Why should we use Spring Framework when we can do the same using JEE?
+-> - JEE stands for Jakarta Enterprise Edition and it is an API.
+   - API stands for Application Programming Interface.
+   - API is a collection of interface and abstract class.
+   - Interfaces means "Classes" Provided by lang to develop/program application are called as API.
+   - API are provided by lang., So that developers can develop application using lang. provided
+     class easily.
+	 
+	Refer Diagram
+	
+   - It's very difficult in writing a java program to talk directly to database, because we need
+     to write low-level code in communicating over the network understand protocols etc.
+	 
+   - Java Standard API, these api's contains only interface, abstract class they don't have 
+     concerte classes. The implementation of the api will have concrete classes
+	 
+   - API's are abstract in nature. [these are not complete].

@@ -1,0 +1,29 @@
+	Spring Framework
+	----------------
+	Spring Framework before Spring there was another framework called Struts Framework.
+	
+	#1. By using struts framework we can develop only web application.
+	    But by using Spring Framework we can develop multiple types of application.
+		a. Desktop / Single User / Standalone Application.
+        b. Distributed Web Application.
+        c. Enterprise Web Application.
+        d. Integration tier web application.[Web Services].
+
+    #2. Struts supports web application development but it will not supports for End-to-End
+        Application development.	
+		
+Presentation-Tier
+-----------------
+The classes within the application that participate in handling the end-uers req, those componets 
+are called as Presentation-Tier componets.
+
+Business-Tier
+-------------
+The classes invlove in performing bussiness operations are called as Business-Tier Componets.
+
+Persistency-Tier
+----------------
+Classes access the data [or] Store the data in persistence store
+
+- By using Spring Framework We can develop End-End application, Spring Framework Pervoids All the modules
+  to work with all the tier.
